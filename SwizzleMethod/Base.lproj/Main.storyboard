@@ -36,7 +36,7 @@
         <!--B-->
         <scene sceneID="JBG-CN-2aI">
             <objects>
-                <viewController id="4js-i5-boA" sceneMemberID="viewController">
+                <viewController id="4js-i5-boA" customClass="BViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="4ev-Md-acn"/>
                         <viewControllerLayoutGuide type="bottom" id="uYC-Zw-SmF"/>
